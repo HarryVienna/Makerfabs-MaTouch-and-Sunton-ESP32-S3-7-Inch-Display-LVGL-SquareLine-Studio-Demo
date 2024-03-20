@@ -1821,8 +1821,8 @@
           }
         ],
         "isPage": true,
-        "editor_posx": 1030,
-        "editor_posy": -980,
+        "editor_posx": 1222,
+        "editor_posy": -1300,
         "locked": false,
         "properties": [
           {
@@ -2136,8 +2136,8 @@
   "info": {
     "name": "SquareLine_Project.spj",
     "depth": 1,
-    "width": 800,
-    "height": 480,
+    "width": 1024,
+    "height": 600,
     "rotation": 0,
     "offset_x": 0,
     "offset_y": 0,
@@ -2156,8 +2156,8 @@
     "theme_dark": false,
     "theme_color1": 5,
     "theme_color2": 0,
-    "uiExportFolderPath": "C:\\Users\\Harald\\Downloads\\dd\\export\\ui",
-    "projectExportFolderPath": "C:\\Users\\Harald\\Downloads\\dd\\export",
+    "uiExportFolderPath": "D:\\Harald\\Documents\\Projekte\\Parallel_LCD\\SquareLineDemo\\export\\ui",
+    "projectExportFolderPath": "D:\\Harald\\Documents\\Projekte\\Parallel_LCD\\SquareLineDemo\\export",
     "backup_cnt": 42,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.11",
